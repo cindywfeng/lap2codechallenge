@@ -22,4 +22,4 @@ Tashbeeh Farid ([@tashbeeh25](https://github.com/tashbeeh25)), Cindy Feng ([@cin
 NB: This usage of the GitHub API does not require authentication
 
 
-![Repo Image](/Github.png)
+![Repo Image](Github.PNG)
